@@ -1,0 +1,18 @@
+Orden;Cliente;Importe;Electro;Dia;Mes;Anio;Nro.Cuotas;ImporteCuota;IVA;TotalCuota
+1;Juan Lopez;3400;Lavarropa;25;6;2022;2;1700,00;357,00;2059,00
+2;Maria Sosa;2500;Heladera;5;8;2022;3;833,33;175,00;1011,33
+3;Jose Rosas;750;Televisor;8;7;2022;5;150,00;31,50;186,50
+4;Mario Garcia;1200;Heladera;21;6;2022;5;240,00;50,40;295,40
+5;Cecilia Perez;4500;Televisor;9;7;2022;3;1500,00;315,00;1818,00
+6;Laura Soria;3850;Lavarropa;19;7;2022;4;962,50;202,13;1168,63
+7;Juana Alvez;2600;Heladera;12;7;2022;2;1300,00;273,00;1575,00
+8;Walter Miranda;1750;Heladera;24;7;2022;4;437,50;91,88;533,38
+9;Mariana Estevez;1400;Lavarropa;29;7;2022;5;280,00;58,80;343,80
+10;Pablo Quintana;800;Lavarropa;21;6;2022;3;266,67;56,00;325,67
+11;Diana Saravia;1200;Heladera;9;7;2022;3;400,00;84,00;487,00
+12;Fernanda Castro;3600;Televisor;19;7;2022;4;900,00;189,00;1093,00
+13;Monica Penia;2100;Lavarropa;12;7;2022;5;420,00;88,20;513,20
+14;Mauricio Gestido;6100;Televisor;24;7;2022;3;2033,33;427,00;2463,33
+15;Marco Perea;5050;Lavarropa;24;7;2022;5;1010,00;212,10;1227,10
+16;Leticia Costa;4750;Lavarropa;8;8;2022;4;1187,50;249,38;1440,88
+17;Esteban Da Silva;5700;Lavarropa;21;7;2022;3;1900,00;399,00;2302,00

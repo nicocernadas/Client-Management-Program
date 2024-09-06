@@ -1,7 +1,3 @@
-//Archivo MAIN del 1° trabajo integrador
-//milibreria.h contiene los headers de las funciones utilizadas
-//milibreria.cpp las funciones definidas
-
 #include "miLibreria.cpp"
 
 int main() {

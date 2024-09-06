@@ -3,8 +3,7 @@ _**Project made for Computer Lab. II.**_
 The program is fully functional. It reads, writes, and updates files while also handling potential user errors, such as incorrect data input.
 It includes a validation system for date entries, which prevents the user from inputting a future date. It also features a functional menu that, for instance, does not allow displaying a file in the console if it has not yet been loaded or created.
 
-[Small video preview of how the program works](C:\Users\nicol\OneDrive\Documentos\UNSAM\Proyectos Completados\Clientes - C\small_preview.webm)
-
+[Small preview of programs functionality](https://github.com/user-attachments/assets/9b300d15-f7de-488a-9135-4e8258fbb75b)
 
 
 _**To run the program:**_

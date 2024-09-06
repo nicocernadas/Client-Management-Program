@@ -5,6 +5,7 @@ It includes a validation system for date entries, which prevents the user from i
 
 [Small video preview of how the program works](small_preview.webm)
 
+
 _**To run the program:**_
 
 - 1) You should simply download the 4 files, they are all necessary to run the program

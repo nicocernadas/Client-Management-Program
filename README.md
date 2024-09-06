@@ -2,8 +2,10 @@ _**Project made for Computer Lab. II.**_
 
 The idea was to make a functional program using C, used to list clients, read from and write files, among other things.
 
-To run the program:
+_**To run the program:**_
 
-- 1) You should simply copy the code from the "main-program.c" file in your ide of choice, and then run it.
+- 1) You should simply download the 4 files, they are all necessary to run the program
+    > It's very important to have them all when running, either way the program won't work.
 
-- 2) For a better view of the program, I highly recommend to maximize the command prompt or windows powershell where the program will run.
+- 2) Doubleclick the 'Main.exe' file, and maximize the command prompt for a better view
+    > The program might not show completely sometimes, I don't know why this happens, just close the window and run again.
